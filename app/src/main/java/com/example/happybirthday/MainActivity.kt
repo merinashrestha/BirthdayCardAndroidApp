@@ -19,6 +19,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
 /**
+ * This is a test message
  * Displays a birthday message.
  */
 class MainActivity : AppCompatActivity() {
